@@ -1,1 +1,0 @@
-Comecei a estudar python (minha primeira linguagem) faz menos de uma semana e conforme vou aprendendo lógica e comandos vou fazendo uns projetinhos pra praticar. Quero por eles aqui para um dia poder ver minha evolução como dev.
